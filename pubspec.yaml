@@ -1,2 +1,4 @@
 name: tuple
 description: A trivial tuple implementation for Dart.
+dev_dependencies:
+  unittest: any
